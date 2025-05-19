@@ -8,3 +8,10 @@
   -fx-alignment: center;
   -fx-font-weight: bold;
 }
+
+.taskLabel{
+  -fx-font-size: 18;
+  -fx-text-fill : black;
+
+
+}
